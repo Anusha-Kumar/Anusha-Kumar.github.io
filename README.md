@@ -4,13 +4,13 @@ Anusha Kumar is a M.S - Ph.D dual degree research scholar in the [Department of 
 
 Her research interests include Experimentation, Data Analytics, Machine Learning, and Applied Statistics. As part of her research program, she is currently working on resource optimization in non-stationary online experiments.
 
+### Publications/Conference Proceedings
+Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization of Aspects from Online Ratings”, _International Conference on Computers and Industrial Engineering (CIE-48)_.
+
 ### Technical Skills
 - Programming languages: C, C++, Java, HTML, PHP, Python, R, MATLAB
 - Databases: MySQL, Microsoft Access
 - Other software/tools: Excel Solver, Wolfram Mathematica, LaTeX, Heflo BPM
-
-### Publications/Conference Proceedings
-Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization of Aspects from Online Ratings”, _International Conference on Computers and Industrial Engineering (CIE-48)_.
 
 ### Certifications
 - MATLAB Onramp, MathWorks
