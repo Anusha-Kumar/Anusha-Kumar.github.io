@@ -12,10 +12,12 @@ Anusha Kumar is a M.S - Ph.D dual degree research scholar in the [Department of 
 ### Publications/Conference Proceedings
 Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization of Aspects from Online Ratings”, International Conference on Computers and Industrial Engineering (CIE-48).
 
+<!--
 ### Presentations
 - Poster presentation on “Quantifying the maximum possible improvement in 2^k experiments”, _Tenth RBCDSAI Workshop on Recent Progress in Data Science and AI_, May 2021.
 - Presentation on “ML Techniques to Predict Over-indebtedness”, _Third RBCDSAI Industry Conclave in collaboration with DART Lab on Financial Analytics_, March 2021.
 - Presentation on “Sequential Modelling Framework for Household Over-indebtedness Detection”, _Seventh RBCDSAI Workshop on Recent Progress in Data Science and AI_, July 2020.
+-->
 
 ### Certifications
 - MATLAB Onramp, MathWorks
