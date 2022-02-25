@@ -1,7 +1,4 @@
 
-## M.S - Ph.D Dual Degree Research Scholar
-## Department of Management Studies, IIT Madras, India
-
 ### About
 Anusha Kumar is a M.S - Ph.D dual degree research scholar in the [Department of Management Studies](https://doms.iitm.ac.in/), IIT Madras. Anusha has completed her B.E Computer Science and Engineering with distinction from Sri Venkateswara College of Engineering, Anna University, Tamil Nadu. 
 
