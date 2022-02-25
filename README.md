@@ -1,4 +1,3 @@
-# Anusha Kumar
 
 ## M.S - Ph.D Dual Degree Research Scholar
 ## Department of Management Studies, IIT Madras, India
