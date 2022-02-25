@@ -20,6 +20,6 @@ Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization
 ### Teaching Assistant Experience
 Probability and Statistics for Data Sciences, Business Research Methodology, Fundamentals of Operations Research, Introduction to Data Analytics, Predictive and Prescriptive Data Analytics
 
-[LinkedIn](www.linkedin.com/in/anusha-kumar-180497140)
+[LinkedIn](https://linkedin.com/in/anusha-kumar-180497140)
 [Github](https://github.com/Anusha-Kumar)
 
