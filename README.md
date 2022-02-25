@@ -1,41 +1,23 @@
-## Anusha Kumar
+## M.S - Ph.D Dual Degree Research Scholar
+## Department of Management Studies, IIT Madras, India
 
-### M.S - Ph.D Dual Degree Research Scholar
-### Department of Management Studies
-### IIT Madras
+### About
+Anusha Kumar is a M.S - Ph.D dual degree research scholar in the [Department of Management Studies](https://doms.iitm.ac.in/), IIT Madras. Anusha has completed her B.E Computer Science and Engineering with distinction from Sri Venkateswara College of Engineering, Anna University, Tamil Nadu. Her **research interests** include Experimentation, Data Analytics, Machine Learning, and Applied Statistics. As part of her research program, she is currently working on resource optimization in non-stationary online experiments.
 
-You can use the [editor on GitHub](https://github.com/Anusha-Kumar/Anusha-Kumar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Technical Skills
+- Programming languages: C, C++, Java, HTML, PHP, Python, R, MATLAB
+- Databases: MySQL, Microsoft Access
+- Other software/tools: Excel Solver, Wolfram Mathematica, LaTeX, Heflo BPM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications/Conference Proceedings
+Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization of Aspects from Online Ratings”, International Conference on Computers and Industrial Engineering (CIE-48).
 
-### Markdown
+### Presentations
+- Poster presentation on “Quantifying the maximum possible improvement in 2k experiments”, _Tenth RBCDSAI Workshop on Recent Progress in Data Science and AI_, May 2021.
+- Presentation on “ML Techniques to Predict Over-indebtedness”, _Third RBCDSAI Industry Conclave in collaboration with DART Lab on Financial Analytics_, March 2021.
+- Presentation on “Sequential Modelling Framework for Household Over-indebtedness Detection”, _Seventh RBCDSAI Workshop on Recent Progress in Data Science and AI_, July 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anusha-Kumar/Anusha-Kumar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Certifications
+- MATLAB Onramp, MathWorks
+- Mastering Data Visualization with R, Udemy
+- Certified Machine Learning Practitioner, Henry Harvin Education
