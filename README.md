@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Anusha Kumar
+
+### M.S - Ph.D Dual Degree Research Scholar
+### Department of Management Studies
+### IIT Madras
 
 You can use the [editor on GitHub](https://github.com/Anusha-Kumar/Anusha-Kumar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
