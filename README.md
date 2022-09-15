@@ -5,6 +5,8 @@ Anusha Kumar is a M.S. - Ph.D. dual degree research scholar in the [Department o
 Her research interests include Experimentation, Data Analytics, Machine Learning, and Applied Statistics. As part of her research program, she is currently working on resource optimization in non-stationary online experiments.
 
 ### Publications/Conference Proceedings
+Nandan Sudarsanam, Anusha Kumar, Daniel D. Frey (2022) "Quantifying the maximum possible improvement in 2k experiments", _Research in Engineering Design 33, 367–384_. https://doi.org/10.1007/s00163-022-00390-3.
+
 Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization of Aspects from Online Ratings”, _International Conference on Computers and Industrial Engineering (CIE-48)_.
 
 ### Technical Skills
