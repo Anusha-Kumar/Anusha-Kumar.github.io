@@ -15,6 +15,7 @@ Anusha Kumar and Nandan Sudarsanam (2019) “Automated Kano Model Categorization
 - Other software/tools: Excel Solver, Wolfram Mathematica, LaTeX, Heflo BPM
 
 ### Certifications
+- Machine Learning A-Z: Python & R in Data Science, Udemy
 - MATLAB Onramp, MathWorks
 - Mastering Data Visualization with R, Udemy
 - Certified Machine Learning Practitioner, Henry Harvin Education
